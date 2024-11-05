@@ -56,7 +56,7 @@ Note - The above instruction was carried out for the two data sets(SalesData and
 
 - Create any other interesting report
 
-  ### Screenshots
+  ### Screenshots:
   [![IMG_0662](https://github.com/user-attachments/assets/2be9c04e-bb95-4c65-85ff-3aeb548a4ad3)
 ](#![IMG_0662](https://github.com/user-attachments/assets/a4e9841d-ab47-4fd3-9665-80d6255da88f)
 )
@@ -112,7 +112,7 @@ Hint - You need to load the dataset into your SQL Server environment to write an
 - Calculate the average subscription duration and identify the most popular subscription types.
 - Create any other interesting reports.
 
-### Screenshot
+### Screenshot:
  [![IMG_0663](https://github.com/user-attachments/assets/e3df2a02-bf25-4950-8597-9e26849a1f95)
 ](#![IMG_0663](https://github.com/user-attachments/assets/c59cb538-cb08-421b-80f2-da846e2e1a66)
 )
@@ -131,10 +131,7 @@ Write queries to extract key insights based on the following questions.
 - find the top 3 regions by subscription cancellations.
 - find the total number of active and canceled subscriptions.
 
-### Screenshots
-[![IMG_0657](https://github.com/user-attachments/assets/d8ee0182-47fa-46eb-adea-5dfec7c18673)
-](#![IMG_0657](https://github.com/user-attachments/assets/63720e7d-a5af-4049-8074-b42b46e27efa)
-)
+### Screenshots:
 [![IMG_0658](https://github.com/user-attachments/assets/05cf058e-37c1-48f8-aa31-37787bd2f413)
 ](#![IMG_0658](https://github.com/user-attachments/assets/2c093bdf-fd9e-4eac-bbc4-537c525439fa)
 )
@@ -148,7 +145,7 @@ Write queries to extract key insights based on the following questions.
 - subscription trends.
 - Include slicers for interactive analysis.
 
-### VISUALISATION
+### VISUALISATION:
 [![IMG_0619](https://github.com/user-attachments/assets/72f43e7d-62ae-449a-8a23-e0f89bddefbc)
 ](#![IMG_0619](https://github.com/user-attachments/assets/ed42925f-e02d-4f15-9ec2-b3812838e726)
 )
