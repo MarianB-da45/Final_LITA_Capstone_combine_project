@@ -78,15 +78,15 @@ Hint - You need to load the dataset into your SQL Server environment to write an
 ### Project 2: Customer Segmentation for a Subscription Service
 
 ### Summary:
- - This project involves analyzing customer data for a subscription service to identify segments and trends. Your goal is to understand customer behavior, track subscription 
-   types, and identify key trends in cancellations and renewals. The final deliverable is a Power BI dashboard that presents your analysis.
-Instructions:
-1. Excel:
+ - This project involves analyzing customer data for a subscription service to identify segments and trends. Our goal is to understand customer behavior, track subscription 
+   types, and identify key trends in cancellations and renewals. The final deliverable is a Power BI dashboard that presents the analysis.
+   
+1. USE Excel:
 - Analyze customer data using pivot tables to find subscription patterns.
 - Calculate the average subscription duration and identify the most popular subscription types.
 - Create any other interesting reports.
 
-2. SQL:
+2.  Use SQL:
  - Hint - You need to load the dataset into your SQL Server environment to write.
  - And validate your queries . 
 
@@ -106,3 +106,8 @@ Write queries to extract key insights based on the following questions.
 - cancellations, and
 - subscription trends.
 - Include slicers for interactive analysis.
+
+### VISUALISATION
+[![IMG_0619](https://github.com/user-attachments/assets/72f43e7d-62ae-449a-8a23-e0f89bddefbc)
+](#![IMG_0619](https://github.com/user-attachments/assets/ed42925f-e02d-4f15-9ec2-b3812838e726)
+)
