@@ -56,6 +56,14 @@ Note - The above instruction was carried out for the two data sets(SalesData and
 
 - Create any other interesting report
 
+  ### VISUALIZATION
+  [![IMG_0662](https://github.com/user-attachments/assets/2be9c04e-bb95-4c65-85ff-3aeb548a4ad3)
+](#![IMG_0662](https://github.com/user-attachments/assets/a4e9841d-ab47-4fd3-9665-80d6255da88f)
+)
+  [![IMG_0663](https://github.com/user-attachments/assets/e3df2a02-bf25-4950-8597-9e26849a1f95)
+](#![IMG_0663](https://github.com/user-attachments/assets/c59cb538-cb08-421b-80f2-da846e2e1a66)
+)
+
 2. SQL:
 Hint - You need to load the dataset into your SQL Server environment to write and validate your queries.
 - Write queries to extract key insights based on the following questions.
