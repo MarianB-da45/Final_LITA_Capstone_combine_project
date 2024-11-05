@@ -5,6 +5,18 @@
 ### Project 1: Sales Performance Analysis for a Retail Store
 - In this project, I was tasked with the duty of  analyzing the sales performance of a retail store.
 - The first thing I did was to explore the sales data to uncover key insights.
+- The second step is to clean the data.
+- In Excel data cleaning involves a series of steps to ensure that your dataset is accurate, consistent, and ready for analysis.
+- key steps for cleaning data in Excel:
+1. Remove Duplicates
+   ###	Why: Duplicate rows can skew your analysis.
+   ###	How:
+    -	Select the range of data or the entire worksheet.
+    -	Go to the Data tab on the ribbon.
+    -	Click Remove Duplicates.
+    -	Select the columns you want to check for duplicates and click OK.
+    -	Excel will inform you how many duplicates were removed.
+
 -  such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
 
 ### Instructions:
