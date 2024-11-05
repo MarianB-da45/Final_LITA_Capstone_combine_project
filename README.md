@@ -3,8 +3,9 @@
 ## My final project for LITA  Data Analysis with the Incubator International HUB- August to November 2024
 
 ### Project 1: Sales Performance Analysis for a Retail Store
-- In this project, you are tasked with analyzing the sales performance of a retail store.
-You will need to explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
+- In this project, I was tasked with the duty of  analyzing the sales performance of a retail store.
+- The first thing I did was to explore the sales data to uncover key insights.
+-  such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
 
 ### Instructions:
 1. Excel:
