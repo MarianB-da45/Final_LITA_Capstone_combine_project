@@ -1,8 +1,8 @@
 ![IMG_0644 (1)](https://github.com/user-attachments/assets/91ebae57-9801-451d-b1b5-4838170ec476)# Final_LITA_Capstone_Excel_SQL_PowerBI_project
 
-## My final project for LITA  Data Analysis with the Incubator International HUB- August to November 2024
+# My final project @ LITA for Data Analysis with the Incubator Hub-(August to November 2024)
 
-### Project 1: Sales Performance Analysis for a Retail Store
+ ## Project 1: Sales Performance Analysis for a Retail Store
 - In this project, I was tasked with the duty of  analyzing the sales performance of a retail store.
 - The first thing I did was to explore the sales data to uncover key insights.
 - The second step is to clean the data.
