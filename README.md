@@ -8,18 +8,47 @@
 - The second step is to clean the data.
 - In Excel data cleaning involves a series of steps to ensure that your dataset is accurate, consistent, and ready for analysis.
 - key steps for cleaning data in Excel:
-1. Remove Duplicates
-   ###	Why: Duplicate rows can skew your analysis.
-   ###	How:
+#### Remove Duplicates
+   - Why: Duplicate rows can skew your analysis.
+   - How:
     -	Select the range of data or the entire worksheet.
     -	Go to the Data tab on the ribbon.
     -	Click Remove Duplicates.
     -	Select the columns you want to check for duplicates and click OK.
     -	Excel will inform you how many duplicates were removed.
+#### Table Name
+    -	Click anywhere inside the table that you want to name.
+    - Make sure the table is created and selected (you can create a table by selecting a range of data and pressing Ctrl + T or choosing Insert > Table).   
+    - Once the table is selected, the Table Tools Design tab will appear on the ribbon (or just Design).
+    - Enter a Name in the Table Name Box
+    - In the Properties group of the Design tab, you’ll see a box called Table Name (on the left side of the ribbon).
+	 - The default name of the table will likely be something like Table1, Table2, etc.
+    - Click inside the Table Name box and type the desired name for your table.
+    - Table names must be unique within the workbook and follow these rules:
+    - No spaces (use underscores or camel case for readability).
+	 - Cannot start with a number.
+    - Cannot contain special characters like !, $, %, ^, &, etc.
 
--  such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
+Note - The above instruction was carried out for the two data sets(SalesData and CustomerData)
 
-### Instructions:
+### Create pivot tables For the Datasets
+    - Select Your Data
+    - Click any cell inside your data range.
+    - You can also manually select the entire range of data, including headers.
+    - Insert a Pivot Table(Alt, N, V) or
+    - Go to the Insert tab in the Excel ribbon.
+    - Click on the PivotTable button in the Tables group.  
+    - A dialog box will appear, asking you to confirm the data range for the Pivot Table. 
+    - Excel will usually auto-detect the range if you selected a cell within the data, but you can modify it if needed.
+    - You will be asked whether to place the Pivot Table in:
+    - New Worksheet: The Pivot Table will be created in a new sheet.or
+    - Existing Worksheet: The Pivot Table will be placed in an existing sheet. If you choose this option, specify the location where the Pivot Table should appear.
+    - Click OK to create the Pivot Table.
+ 	 - Use Pivot Tables to summarize and group data.
+    - such as top-selling products, regional performance, and monthly sales trends.
+    - The goal is to produce an interactive Power BI dashboard that highlights these findings.
+
+
 1. Excel:
  - Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
 
@@ -42,6 +71,9 @@ Hint - You need to load the dataset into your SQL Server environment to write an
 3.  Power BI
 - Create a dashboard that visualizes the insights found in Excel and SQL.
 - The dashboard should include a sales overview, top-performing products, and regional breakdowns.
+### VISUALIZATION
+[Download Here](![IMG_0622](https://github.com/user-attachments/assets/3e094e34-7d02-4519-b76c-1a08c716691d))
+
   
 ### Project 2: Customer Segmentation for a Subscription Service
 
