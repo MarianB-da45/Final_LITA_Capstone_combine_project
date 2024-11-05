@@ -144,6 +144,9 @@ Write queries to extract key insights based on the following questions.
 - Include slicers for interactive analysis.
 
 ### VISUALISATION:
+[![Print Screen on Doc](https://github.com/user-attachments/assets/967ae1f4-c477-439c-87a7-ef316e5effdf)
+](#![Print Screen on Doc](https://github.com/user-attachments/assets/78e02099-4a32-4894-a49c-b3a8a90eb42e)
+)
 [![IMG_0619](https://github.com/user-attachments/assets/72f43e7d-62ae-449a-8a23-e0f89bddefbc)
 ](#![IMG_0619](https://github.com/user-attachments/assets/ed42925f-e02d-4f15-9ec2-b3812838e726)
 )
