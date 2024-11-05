@@ -1,5 +1,3 @@
-![IMG_0644 (1)](https://github.com/user-attachments/assets/91ebae57-9801-451d-b1b5-4838170ec476)# Final_LITA_Capstone_Excel_SQL_PowerBI_project
-
 # My final project @ LITA for Data Analysis with the Incubator Hub-(August to November 2024)
 
  ## Project 1: Sales Performance Analysis for a Retail Store
