@@ -1,4 +1,4 @@
-# Final_LITA_Capstone_Excel_SQL_PowerBI_project
+![IMG_0644 (1)](https://github.com/user-attachments/assets/91ebae57-9801-451d-b1b5-4838170ec476)# Final_LITA_Capstone_Excel_SQL_PowerBI_project
 
 ## My final project for LITA  Data Analysis with the Incubator International HUB- August to November 2024
 
@@ -56,13 +56,11 @@ Note - The above instruction was carried out for the two data sets(SalesData and
 
 - Create any other interesting report
 
-  ### VISUALIZATION
+  ### Screenshots
   [![IMG_0662](https://github.com/user-attachments/assets/2be9c04e-bb95-4c65-85ff-3aeb548a4ad3)
 ](#![IMG_0662](https://github.com/user-attachments/assets/a4e9841d-ab47-4fd3-9665-80d6255da88f)
 )
-  [![IMG_0663](https://github.com/user-attachments/assets/e3df2a02-bf25-4950-8597-9e26849a1f95)
-](#![IMG_0663](https://github.com/user-attachments/assets/c59cb538-cb08-421b-80f2-da846e2e1a66)
-)
+ 
 
 2. SQL:
 Hint - You need to load the dataset into your SQL Server environment to write and validate your queries.
@@ -75,6 +73,19 @@ Hint - You need to load the dataset into your SQL Server environment to write an
 - find the top 5 customers by total purchase amount.
 - calculate the percentage of total sales contributed by each region.
 - identify products with no sales in the last quarter.
+
+### Screenshots
+[![IMG_0641 (1)](https://github.com/user-attachments/assets/bf5c73e1-c7c3-45d4-8b83-7292758f9992)
+](#![IMG_0641 (1)](https://github.com/user-attachments/assets/1743b376-7d5c-4bfb-865d-49ffccc17c35)
+)
+[![IMG_0643 (1)](https://github.com/user-attachments/assets/249acc46-8f15-4b03-a29f-e2953143dd86)
+](#![IMG_0643 (1)](https://github.com/user-attachments/assets/bd10d5e6-6452-4928-a568-7aa52c85e84c)
+)
+[![Uploading IMG_0644 (1).jpg…](#![IMG_0644 (1)](https://github.com/user-attachments/assets/c2136223-2d52-4abf-a52d-4ee8a9b75fe4)
+)
+[![IMG_0645 (1)](https://github.com/user-attachments/assets/2f435ade-a5a1-4eb6-9b59-e43cd71d4a18)
+](#![IMG_0645 (1)](https://github.com/user-attachments/assets/a063bb22-f000-433a-a5da-5ead3677f6c5)
+)
 
 3.  Power BI
 - Create a dashboard that visualizes the insights found in Excel and SQL.
@@ -101,6 +112,11 @@ Hint - You need to load the dataset into your SQL Server environment to write an
 - Calculate the average subscription duration and identify the most popular subscription types.
 - Create any other interesting reports.
 
+### Screenshot
+ [![IMG_0663](https://github.com/user-attachments/assets/e3df2a02-bf25-4950-8597-9e26849a1f95)
+](#![IMG_0663](https://github.com/user-attachments/assets/c59cb538-cb08-421b-80f2-da846e2e1a66)
+)
+
 2.  Use SQL:
  - Hint - You need to load the dataset into your SQL Server environment to write.
  - And validate your queries . 
@@ -115,6 +131,16 @@ Write queries to extract key insights based on the following questions.
 - find the top 3 regions by subscription cancellations.
 - find the total number of active and canceled subscriptions.
 
+### Screenshots
+[![IMG_0657](https://github.com/user-attachments/assets/d8ee0182-47fa-46eb-adea-5dfec7c18673)
+](#![IMG_0657](https://github.com/user-attachments/assets/63720e7d-a5af-4049-8074-b42b46e27efa)
+)
+[![IMG_0658](https://github.com/user-attachments/assets/05cf058e-37c1-48f8-aa31-37787bd2f413)
+](#![IMG_0658](https://github.com/user-attachments/assets/2c093bdf-fd9e-4eac-bbc4-537c525439fa)
+)
+[![IMG_0659](https://github.com/user-attachments/assets/97a14aec-d4ab-4a93-9259-aa6bd82afa4f)
+](#![IMG_0659](https://github.com/user-attachments/assets/cfa06599-56fa-4c1d-ba96-5b513a984079)
+)
 3. Power BI:    
             
 - Build a Power BI dashboard that visualizes key customer segments,
