@@ -72,6 +72,13 @@ Hint - You need to load the dataset into your SQL Server environment to write an
 - Create a dashboard that visualizes the insights found in Excel and SQL.
 - The dashboard should include a sales overview, top-performing products, and regional breakdowns.
 ### VISUALIZATION
+[![IMG_0628](https://github.com/user-attachments/assets/d4aaebf8-0355-4b2a-b266-7d0e2c25bc7e)
+](#![IMG_0628](https://github.com/user-attachments/assets/7c8bd3c6-fee5-460d-903b-de1ce4f0b5f7)
+)
+[![IMG_0624](https://github.com/user-attachments/assets/9075e0b7-e056-42d0-80b2-a64416f04d81)
+](#![IMG_0624](https://github.com/user-attachments/assets/10234c3e-8164-4ac6-9624-b2d4759dae89)
+)
+[]()
 [Download Here](![IMG_0622](https://github.com/user-attachments/assets/3e094e34-7d02-4519-b76c-1a08c716691d))
 
   
@@ -111,3 +118,9 @@ Write queries to extract key insights based on the following questions.
 [![IMG_0619](https://github.com/user-attachments/assets/72f43e7d-62ae-449a-8a23-e0f89bddefbc)
 ](#![IMG_0619](https://github.com/user-attachments/assets/ed42925f-e02d-4f15-9ec2-b3812838e726)
 )
+[![IMG_0619](https://github.com/user-attachments/assets/e108ae17-0b00-49ed-a1e3-7dfe42f96acd)
+](#![IMG_0619](https://github.com/user-attachments/assets/d672127c-8e79-48f0-a7f4-bde2c096040d)
+)
+[#![IMG_0625](https://github.com/user-attachments/assets/86967644-da90-42a0-be02-2237738a5947)
+![IMG_0625](https://github.com/user-attachments/assets/5b61976e-d674-4cf3-b128-2f3be74411d8)
+]()
