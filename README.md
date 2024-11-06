@@ -55,6 +55,9 @@ Note - The above instruction was carried out for the two data sets(SalesData and
 - Create any other interesting report
 
   ### Screenshots:
+  [![Sales Dashboard](https://github.com/user-attachments/assets/de042c5c-17e7-4277-a3c1-d5233b40cfc3)
+](#![Sales Dashboard](https://github.com/user-attachments/assets/3272c9fc-82bb-4bf3-b940-4bef5bfdd907)
+)
   [![IMG_0662](https://github.com/user-attachments/assets/2be9c04e-bb95-4c65-85ff-3aeb548a4ad3)
 ](#![IMG_0662](https://github.com/user-attachments/assets/a4e9841d-ab47-4fd3-9665-80d6255da88f)
 )
