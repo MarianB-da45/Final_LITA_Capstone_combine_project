@@ -55,7 +55,7 @@ Note - The above instruction was carried out for the two data sets(SalesData and
 - Create any other interesting report
 
   ### Screenshots:
-  (#https://github.com/user-attachments/assets/3272c9fc-82bb-4bf3-b940-4bef5bfdd907)
+  [Download](https://github.com/user-attachments/assets/3272c9fc-82bb-4bf3-b940-4bef5bfdd907)
   [IMG_0662](https://github.com/user-attachments/assets/2be9c04e-bb95-4c65-85ff-3aeb548a4ad3)
   [IMG_0662](https://github.com/user-attachments/assets/a4e9841d-ab47-4fd3-9665-80d6255da88f)
 
@@ -139,7 +139,7 @@ Write queries to extract key insights based on the following questions.
 
 ### VISUALISATION:
  [View](https://github.com/user-attachments/assets/967ae1f4-c477-439c-87a7-ef316e5effdf)
- [see](https://github.com/user-attachments/assets/78e02099-4a32-4894-a49c-b3a8a90eb42e)
+ [Here](https://github.com/user-attachments/assets/78e02099-4a32-4894-a49c-b3a8a90eb42e)
  [IMG_0619](https://github.com/user-attachments/assets/72f43e7d-62ae-449a-8a23-e0f89bddefbc)
  [IMG_0619](https://github.com/user-attachments/assets/ed42925f-e02d-4f15-9ec2-b3812838e726)
  [IMG_0619](https://github.com/user-attachments/assets/e108ae17-0b00-49ed-a1e3-7dfe42f96acd)
