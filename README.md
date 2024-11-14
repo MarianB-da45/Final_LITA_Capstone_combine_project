@@ -74,30 +74,24 @@ Hint - You need to load the dataset into your SQL Server environment to write an
 - identify products with no sales in the last quarter.
 
 ### Screenshots
-[![IMG_0641 (1)](https://github.com/user-attachments/assets/bf5c73e1-c7c3-45d4-8b83-7292758f9992)
-](#![IMG_0641 (1)](https://github.com/user-attachments/assets/1743b376-7d5c-4bfb-865d-49ffccc17c35)
-)
-[![IMG_0643 (1)](https://github.com/user-attachments/assets/249acc46-8f15-4b03-a29f-e2953143dd86)
-](#![IMG_0643 (1)](https://github.com/user-attachments/assets/bd10d5e6-6452-4928-a568-7aa52c85e84c)
-)
-[![Uploading IMG_0644 (1).jpg…](#![IMG_0644 (1)](https://github.com/user-attachments/assets/c2136223-2d52-4abf-a52d-4ee8a9b75fe4)
-)
-[![IMG_0645 (1)](https://github.com/user-attachments/assets/2f435ade-a5a1-4eb6-9b59-e43cd71d4a18)
-](#![IMG_0645 (1)](https://github.com/user-attachments/assets/a063bb22-f000-433a-a5da-5ead3677f6c5)
-)
+[IMG_0641 (1)](https://github.com/user-attachments/assets/bf5c73e1-c7c3-45d4-8b83-7292758f9992)
+[IMG_0641 (1)](https://github.com/user-attachments/assets/1743b376-7d5c-4bfb-865d-49ffccc17c35)
+[IMG_0643 (1)](https://github.com/user-attachments/assets/249acc46-8f15-4b03-a29f-e2953143dd86)
+[IMG_0643 (1)](https://github.com/user-attachments/assets/bd10d5e6-6452-4928-a568-7aa52c85e84c)
+[IMG_0644 (1)](https://github.com/user-attachments/assets/c2136223-2d52-4abf-a52d-4ee8a9b75fe4)
+[IMG_0645 (1)](https://github.com/user-attachments/assets/2f435ade-a5a1-4eb6-9b59-e43cd71d4a18)
+[IMG_0645 (1)](https://github.com/user-attachments/assets/a063bb22-f000-433a-a5da-5ead3677f6c5)
+
 
 3.  Power BI
 - Create a dashboard that visualizes the insights found in Excel and SQL.
 - The dashboard should include a sales overview, top-performing products, and regional breakdowns.
 ### VISUALIZATION
-[![IMG_0628](https://github.com/user-attachments/assets/d4aaebf8-0355-4b2a-b266-7d0e2c25bc7e)
-](#![IMG_0628](https://github.com/user-attachments/assets/7c8bd3c6-fee5-460d-903b-de1ce4f0b5f7)
-)
-[![IMG_0624](https://github.com/user-attachments/assets/9075e0b7-e056-42d0-80b2-a64416f04d81)
-](#![IMG_0624](https://github.com/user-attachments/assets/10234c3e-8164-4ac6-9624-b2d4759dae89)
-)
-[]()
-[Download Here](![IMG_0622](https://github.com/user-attachments/assets/3e094e34-7d02-4519-b76c-1a08c716691d))
+[IMG_0628](https://github.com/user-attachments/assets/d4aaebf8-0355-4b2a-b266-7d0e2c25bc7e)
+[IMG_0628](https://github.com/user-attachments/assets/7c8bd3c6-fee5-460d-903b-de1ce4f0b5f7)
+[IMG_0624](https://github.com/user-attachments/assets/9075e0b7-e056-42d0-80b2-a64416f04d81)
+[IMG_0624](https://github.com/user-attachments/assets/10234c3e-8164-4ac6-9624-b2d4759dae89)
+[Download Here]([IMG_0622](https://github.com/user-attachments/assets/3e094e34-7d02-4519-b76c-1a08c716691d))
 
   
 ### Project 2: Customer Segmentation for a Subscription Service
@@ -112,9 +106,9 @@ Hint - You need to load the dataset into your SQL Server environment to write an
 - Create any other interesting reports.
 
 ### Screenshot:
- [![IMG_0663](https://github.com/user-attachments/assets/e3df2a02-bf25-4950-8597-9e26849a1f95)
-](#![IMG_0663](https://github.com/user-attachments/assets/c59cb538-cb08-421b-80f2-da846e2e1a66)
-)
+[IMG_0663](https://github.com/user-attachments/assets/e3df2a02-bf25-4950-8597-9e26849a1f95)
+[IMG_0663](https://github.com/user-attachments/assets/c59cb538-cb08-421b-80f2-da846e2e1a66)
+
 
 2.  Use SQL:
  - Hint - You need to load the dataset into your SQL Server environment to write.
@@ -131,12 +125,11 @@ Write queries to extract key insights based on the following questions.
 - find the total number of active and canceled subscriptions.
 
 ### Screenshots:
-[![IMG_0658](https://github.com/user-attachments/assets/05cf058e-37c1-48f8-aa31-37787bd2f413)
-](#![IMG_0658](https://github.com/user-attachments/assets/2c093bdf-fd9e-4eac-bbc4-537c525439fa)
-)
-[![IMG_0659](https://github.com/user-attachments/assets/97a14aec-d4ab-4a93-9259-aa6bd82afa4f)
-](#![IMG_0659](https://github.com/user-attachments/assets/cfa06599-56fa-4c1d-ba96-5b513a984079)
-)
+[IMG_0658](https://github.com/user-attachments/assets/05cf058e-37c1-48f8-aa31-37787bd2f413)
+[IMG_0658](https://github.com/user-attachments/assets/2c093bdf-fd9e-4eac-bbc4-537c525439fa)
+[IMG_0659](https://github.com/user-attachments/assets/97a14aec-d4ab-4a93-9259-aa6bd82afa4f)
+[IMG_0659](https://github.com/user-attachments/assets/cfa06599-56fa-4c1d-ba96-5b513a984079)
+
 3. Power BI:    
             
 - Build a Power BI dashboard that visualizes key customer segments,
@@ -145,15 +138,12 @@ Write queries to extract key insights based on the following questions.
 - Include slicers for interactive analysis.
 
 ### VISUALISATION:
-[![Print Screen on Doc](https://github.com/user-attachments/assets/967ae1f4-c477-439c-87a7-ef316e5effdf)
-](#![Print Screen on Doc](https://github.com/user-attachments/assets/78e02099-4a32-4894-a49c-b3a8a90eb42e)
-)
-[![IMG_0619](https://github.com/user-attachments/assets/72f43e7d-62ae-449a-8a23-e0f89bddefbc)
-](#![IMG_0619](https://github.com/user-attachments/assets/ed42925f-e02d-4f15-9ec2-b3812838e726)
-)
-[![IMG_0619](https://github.com/user-attachments/assets/e108ae17-0b00-49ed-a1e3-7dfe42f96acd)
-](#![IMG_0619](https://github.com/user-attachments/assets/d672127c-8e79-48f0-a7f4-bde2c096040d)
-)
-[#![IMG_0625](https://github.com/user-attachments/assets/86967644-da90-42a0-be02-2237738a5947)
-[IMG_0625](https://github.com/user-attachments/assets/5b61976e-d674-4cf3-b128-2f3be74411d8)
+ [View](https://github.com/user-attachments/assets/967ae1f4-c477-439c-87a7-ef316e5effdf)
+ [see](https://github.com/user-attachments/assets/78e02099-4a32-4894-a49c-b3a8a90eb42e)
+ [IMG_0619](https://github.com/user-attachments/assets/72f43e7d-62ae-449a-8a23-e0f89bddefbc)
+ [IMG_0619](https://github.com/user-attachments/assets/ed42925f-e02d-4f15-9ec2-b3812838e726)
+ [IMG_0619](https://github.com/user-attachments/assets/e108ae17-0b00-49ed-a1e3-7dfe42f96acd)
+ [IMG_0619](https://github.com/user-attachments/assets/d672127c-8e79-48f0-a7f4-bde2c096040d)
+ [IMG_0625](https://github.com/user-attachments/assets/86967644-da90-42a0-be02-2237738a5947)
+ [IMG_0625](https://github.com/user-attachments/assets/5b61976e-d674-4cf3-b128-2f3be74411d8)
 
