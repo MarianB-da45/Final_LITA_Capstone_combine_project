@@ -55,7 +55,7 @@ Note - The above instruction was carried out for the two data sets(SalesData and
 - Create any other interesting report
 
   ### Screenshots:
-  [Download](https://github.com/user-attachments/assets/3272c9fc-82bb-4bf3-b940-4bef5bfdd907)
+  [view](https://github.com/user-attachments/assets/3272c9fc-82bb-4bf3-b940-4bef5bfdd907)
   [IMG_0662](https://github.com/user-attachments/assets/2be9c04e-bb95-4c65-85ff-3aeb548a4ad3)
   [IMG_0662](https://github.com/user-attachments/assets/a4e9841d-ab47-4fd3-9665-80d6255da88f)
 
@@ -91,7 +91,7 @@ Hint - You need to load the dataset into your SQL Server environment to write an
 [IMG_0628](https://github.com/user-attachments/assets/7c8bd3c6-fee5-460d-903b-de1ce4f0b5f7)
 [IMG_0624](https://github.com/user-attachments/assets/9075e0b7-e056-42d0-80b2-a64416f04d81)
 [IMG_0624](https://github.com/user-attachments/assets/10234c3e-8164-4ac6-9624-b2d4759dae89)
-[Download Here]([IMG_0622](https://github.com/user-attachments/assets/3e094e34-7d02-4519-b76c-1a08c716691d))
+[IMG_0622](https://github.com/user-attachments/assets/3e094e34-7d02-4519-b76c-1a08c716691d))
 
   
 ### Project 2: Customer Segmentation for a Subscription Service
