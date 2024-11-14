@@ -157,5 +157,5 @@ Write queries to extract key insights based on the following questions.
 ](#![IMG_0619](https://github.com/user-attachments/assets/d672127c-8e79-48f0-a7f4-bde2c096040d)
 )
 [#![IMG_0625](https://github.com/user-attachments/assets/86967644-da90-42a0-be02-2237738a5947)
-![IMG_0625](https://github.com/user-attachments/assets/5b61976e-d674-4cf3-b128-2f3be74411d8)
-]()
+[IMG_0625](https://github.com/user-attachments/assets/5b61976e-d674-4cf3-b128-2f3be74411d8)
+
